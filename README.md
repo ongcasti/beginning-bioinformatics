@@ -1,2 +1,2 @@
 # beginning-bioinformatics
-beginning bioinformatics course code
+Francisco Ong Castillo + 1002159829 + BIOL5340-001
